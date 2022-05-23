@@ -1,4 +1,5 @@
 # Windows 11 Products Key
+## I am not responsible if there are problems afterwards. 
 A lot of products key for Windows 11 Home, Pro, Enterprise, Core,...
 
 __Follow the steps below to activate:__
