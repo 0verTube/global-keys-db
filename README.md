@@ -1,5 +1,6 @@
 # Windows 11 Products Key
-## I am not responsible if there are problems afterwards. 
+## I am not responsible if there are problems afterwards.
+## /!\ be careful when using these keys /!\
 
 
 __Follow the steps below to activate:__
@@ -10,7 +11,9 @@ __Follow the steps below to activate:__
 - If an error message appears, do "troubleshoot".
 - Normally, it should be ok, restart the computer.
 
-__Core :__
+### PRODUCTS KEYS :
+
+- __Core :__
 
 YTMG3-N6DKC-DKB77-7M9GH-8HVX7
 
