@@ -1,6 +1,14 @@
 # Windows 11 Products Key
 A lot of products key for Windows 11 Home, Pro, Enterprise, Core,...
 
+__Follow the steps below to activate:__
+- Disconnect from the internet (to avoid an error message when entering the key).
+- Enter the key.
+- Restart the computer.
+- Go back to Windows Activation Settings
+- If an error message appears, do "troubleshoot".
+- Normally, it should be ok, restart the computer.
+
 __Core :__
 
 YTMG3-N6DKC-DKB77-7M9GH-8HVX7
