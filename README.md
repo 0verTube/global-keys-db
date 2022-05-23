@@ -2,7 +2,7 @@
 ## I am not responsible if there are problems afterwards. 
 
 
-__Follow the steps below to activate:__
+###__Follow the steps below to activate:__
 - Disconnect from the internet (to avoid an error message when entering the key).
 - Enter the key.
 - Restart the computer.
