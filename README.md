@@ -1,4 +1,4 @@
-# Windows 11 Products Key
+# Windows 10 / 11 Products Key
 ## I am not responsible if there are problems afterwards.
 ### /!\ be careful when using these keys /!\
 
