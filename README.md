@@ -10,6 +10,7 @@ __Follow the steps below to activate:__
 - Go back to Windows Activation Settings
 - If an error message appears, do "troubleshoot".
 - Normally, it should be ok, restart the computer.
+- If you want no more bug, reset ur computer. The key will be saved even after the reset
 
 ## PRODUCTS KEYS :
 
