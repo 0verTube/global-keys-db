@@ -3,7 +3,7 @@
 Email: vdpchecker@gmail.com
 Key: LAYB-MDO0-DATC-C5H9-P5G4-A43U
 
--__WINRAR :__  
+- __WINRAR :__  
 Put license in a file named : rarreg.key  
 Copy file to installation folder default "C:\Program Files\WinRAR" :  
 
