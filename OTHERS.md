@@ -5,8 +5,7 @@ Key: LAYB-MDO0-DATC-C5H9-P5G4-A43U
 
 -__WINRAR :__  
 Put license in a file named : rarreg.key  
-Copy file to installation folder  
-default "C:\Program Files\WinRAR"  
+Copy file to installation folder default "C:\Program Files\WinRAR".  
 
 RAR registration data  
 Full Trial  
